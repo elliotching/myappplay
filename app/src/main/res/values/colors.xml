@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="white">#ffffff</color>
+    <color name="colorPrimary">#4A4A4A</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#208BD8</color>
+    <color name="colorBlack">#191919</color>
+    <color name="colorLightBlack">#4A4A4A</color>
+    <color name="colorGray">#C6C6C6</color>
+    <color name="colorSecondaryGray">#EDEDED</color>
+    <color name="colorTransparentWhite">#CCCCCC</color>
+    <color name="colorTransparentWhiteLight">#EFEFEF</color>
+    <color name="loadingTransparentWhite">#99FFFFFF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorDarkGray">#575656</color>
+    <color name="colorLightYellow">#FCC009</color>
+    <color name="colorTransparent">#0000ffff</color>
+    <color name="colorGrayDash">#979797</color>
+    <color name="colorCyan">#95C8EC</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorDarkRed">#720c0c</color>
+
+    <color name="colorGrayBorderUnfocus">#C6C6C6</color>
+    <color name="colorRedBorderFocus">#FF0000</color>
+
+    <color name="colorPrimaryButtonDisable">#B2D7F4</color>
+    <color name="colorPrimaryButtonEnable">#208BD8</color>
+
+    <color name="colorOrange">#FF7A17</color>
+    <color name="colorHelpSupport">#CFE6FB</color>
+    <color name="colorTextDisable">#B6B6B6</color>
+
+    <color name="colorBlack_alpha50">#80000000</color>
 </resources>
